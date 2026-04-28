@@ -61,6 +61,10 @@ curl -X POST http://localhost:8000/messages \
 
 Acesse: http://localhost:8000/docs
 
+> **API pública ao vivo:** http://201.76.43.81:8000/docs
+>
+> **Endpoint ao vivo:** http://201.76.43.81:8000/messages
+
 ---
 
 ## Como funciona o fluxo
